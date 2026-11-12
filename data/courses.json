@@ -1,0 +1,116 @@
+[
+  {
+    "id": "c-101",
+    "slug": "online-mba",
+    "title": "Online MBA",
+    "category": "MBA",
+    "university": "Northbridge University",
+    "duration": "18 months",
+    "mode": "100% online",
+    "body": [
+      { "type": "paragraph", "text": "A flexible MBA for working professionals who want to step into senior leadership without pausing their careers. Study online, at your own pace, alongside a global cohort." },
+      { "type": "heading", "text": "What you will study" },
+      { "type": "paragraph", "text": "Core modules cover strategy, finance, marketing, operations and leadership, followed by electives and a final consultancy project with a real organisation." },
+      { "type": "heading", "text": "Who it is for" },
+      { "type": "paragraph", "text": "Managers with at least three years of professional experience who are ready to lead larger teams and make strategic decisions." }
+    ]
+  },
+  {
+    "id": "c-102",
+    "slug": "executive-mba",
+    "title": "Executive MBA",
+    "category": "MBA",
+    "university": "Calder Business School",
+    "duration": "24 months",
+    "mode": "Online with optional residencies",
+    "body": [
+      { "type": "paragraph", "text": "Designed for experienced executives, this programme combines online study with optional in-person residencies in Europe and the Gulf." },
+      { "type": "heading", "text": "Programme highlights" },
+      { "type": "paragraph", "text": "Learn from senior faculty and industry leaders, build a strong peer network, and apply each module directly to challenges in your own organisation." }
+    ]
+  },
+  {
+    "id": "c-201",
+    "slug": "doctor-of-business-administration",
+    "title": "Doctor of Business Administration",
+    "category": "Doctorate",
+    "university": "Northbridge University",
+    "duration": "36 months",
+    "mode": "100% online",
+    "body": [
+      { "type": "paragraph", "text": "A professional doctorate for senior leaders who want to research a real business problem and contribute new practical knowledge to their field." },
+      { "type": "heading", "text": "How it works" },
+      { "type": "paragraph", "text": "After taught research modules, you work one-to-one with a supervisor on a thesis grounded in your own industry." }
+    ]
+  },
+  {
+    "id": "c-202",
+    "slug": "phd-in-management",
+    "title": "PhD in Management",
+    "category": "Doctorate",
+    "university": "Ashworth University",
+    "duration": "48 months",
+    "mode": "Part-time, online",
+    "body": [
+      { "type": "paragraph", "text": "An academic research degree for professionals who want to make an original contribution to management theory." },
+      { "type": "heading", "text": "Research areas" },
+      { "type": "paragraph", "text": "Supervision is available in leadership, organisational behaviour, strategy, sustainability and digital transformation." }
+    ]
+  },
+  {
+    "id": "c-301",
+    "slug": "msc-project-management",
+    "title": "MSc Project Management",
+    "category": "Masters",
+    "university": "Calder Business School",
+    "duration": "12 months",
+    "mode": "100% online",
+    "body": [
+      { "type": "paragraph", "text": "Build the skills to plan, deliver and lead complex projects across industries, with content aligned to recognised professional standards." },
+      { "type": "heading", "text": "Career outcomes" },
+      { "type": "paragraph", "text": "Graduates move into project, programme and portfolio management roles in construction, technology, government and consulting." }
+    ]
+  },
+  {
+    "id": "c-302",
+    "slug": "msc-human-resource-management",
+    "title": "MSc Human Resource Management",
+    "category": "Masters",
+    "university": "Ashworth University",
+    "duration": "12 months",
+    "mode": "100% online",
+    "body": [
+      { "type": "paragraph", "text": "A practical masters for HR professionals who want to shape people strategy, culture and performance in their organisation." },
+      { "type": "heading", "text": "What you will study" },
+      { "type": "paragraph", "text": "Modules include talent management, employment law, reward, organisational change and people analytics." }
+    ]
+  },
+  {
+    "id": "c-303",
+    "slug": "ma-education",
+    "title": "MA Education",
+    "category": "Masters",
+    "university": "Northbridge University",
+    "duration": "24 months",
+    "mode": "Part-time, online",
+    "body": [
+      { "type": "paragraph", "text": "For teachers and school leaders who want to deepen their practice and move into leadership or curriculum roles." },
+      { "type": "heading", "text": "Specialisms" },
+      { "type": "paragraph", "text": "Choose a pathway in educational leadership, teaching and learning, or inclusive education." }
+    ]
+  },
+  {
+    "id": "c-401",
+    "slug": "bsc-business-management",
+    "title": "BSc (Hons) Business Management",
+    "category": "Bachelors",
+    "university": "Calder Business School",
+    "duration": "36 months",
+    "mode": "100% online",
+    "body": [
+      { "type": "paragraph", "text": "A complete undergraduate business degree you can study while working, covering the foundations of management, finance and marketing." },
+      { "type": "heading", "text": "Entry requirements" },
+      { "type": "paragraph", "text": "Applicants need a high school certificate or equivalent. Relevant work experience may also be considered." }
+    ]
+  }
+]
